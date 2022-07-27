@@ -1,0 +1,1 @@
+1 Name = asd Country = qwe City = rewq Visited = true
